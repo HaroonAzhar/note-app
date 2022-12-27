@@ -17,6 +17,36 @@ const App: React.FC<AppComponentProps> = ({ history }) => {
         title: "Hey 👋",
         body:
           "I'm dummy note here. Try to update me. Click me to see my remaining part. You can also delete me 😔. But I'll be here again by reopening the app link 😃. "
+      },
+      {
+        id: "Odork5n5jvew45vbtY",
+        title: "1",
+        body:
+          "Example of fluid layout"
+      },
+      {
+        id: "Odork5n5jvew45vbtY",
+        title: "2",
+        body:
+          "Still need 3 more"
+      },
+      {
+        id: "byh45dork5n5jvew45vbtY",
+        title: "3",
+        body:
+          "Okay..."
+      },
+      {
+        id: "qw65b4tvbcccrb5vbtY",
+        title: "4",
+        body:
+          "Rndm  1,2,3"
+      },
+      {
+        id: "dgbbdork5n5jvew45vbtY",
+        title: "5",
+        body:
+          "Everthiing fits in perfetly"
       }
     ];
     setNotes(dummyNotes);
